@@ -1042,9 +1042,40 @@ Version:	1.1
 	font-size: 11px;
 }
 
+
 }
 /* Mobile Screen */
 @media only screen and (max-width: 450px) {
+
+
+/* slider Screen */
+#slider1-m{
+	width: 140%;
+}
+#slider2-m{
+	width: 160%;
+}
+#slider3-m{
+	width: 110%;
+}
+#mm2{
+	width: 70%;
+}
+#mm3{
+	width: 60%;
+}
+#mm4{
+	width: 90%;
+}
+#bt-m1{
+	width: 70%;
+}
+#bt-m2{
+	width: 60%;
+}
+#bt-m3{
+	width: 90%;
+}
 
 
 .section{
